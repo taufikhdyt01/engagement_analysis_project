@@ -1,3 +1,4 @@
 /.ipynb_checkpoints
 /anaconda_projects
-data/raw/
+/data/raw/
+/data/fer2013/

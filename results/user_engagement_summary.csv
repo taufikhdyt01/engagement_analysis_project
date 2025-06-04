@@ -1,0 +1,21 @@
+user_id,Avg_Score,Std_Score,Min_Score,Max_Score,Dominant_Level
+97,0.1976,0.1146,-0.0534,0.3,Highly Engaged
+99,0.2056,0.1209,-0.0865,0.3,Highly Engaged
+100,0.277,0.0638,-0.0478,0.3,Highly Engaged
+101,0.284,0.0567,-0.1966,0.3,Highly Engaged
+102,0.2253,0.0949,-0.0898,0.3,Highly Engaged
+103,0.2641,0.0747,-0.093,0.3,Highly Engaged
+104,0.2344,0.0786,-0.0357,0.3,Highly Engaged
+106,0.15,0.1066,-0.0494,0.3,Disengaged
+107,0.2221,0.0964,-0.0852,0.3,Highly Engaged
+108,0.1939,0.1439,-0.0825,0.3,Highly Engaged
+109,0.2657,0.086,-0.0498,0.3,Highly Engaged
+110,0.2647,0.0575,-0.0464,0.3,Highly Engaged
+111,0.2775,0.0585,-0.0535,0.3,Highly Engaged
+112,0.2868,0.036,0.0886,0.3,Highly Engaged
+113,0.2932,0.0435,-0.0676,0.3,Highly Engaged
+114,0.2443,0.1027,-0.0519,0.3,Highly Engaged
+115,0.297,0.0159,0.1306,0.3,Highly Engaged
+116,0.2028,0.1129,-0.0489,0.2999,Highly Engaged
+117,0.1468,0.0733,0.0133,0.2997,Engaged
+118,0.2866,0.05,-0.0418,0.3,Highly Engaged
