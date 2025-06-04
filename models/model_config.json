@@ -1,0 +1,24 @@
+{
+  "architecture": "Lightweight CNN",
+  "input_shape": [
+    48,
+    48,
+    1
+  ],
+  "num_classes": 7,
+  "total_parameters": 2782311,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "loss": "categorical_crossentropy",
+  "batch_size": 32,
+  "epochs": 100,
+  "emotion_labels": [
+    "angry",
+    "disgusted",
+    "fearful",
+    "happy",
+    "sad",
+    "surprised",
+    "neutral"
+  ]
+}
